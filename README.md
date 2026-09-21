@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Patrick 👋
 
-<!--
-**patricckhrq/patricckhrq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software** na UTFPR.  
+💻 Apaixonado por desenvolvimento de software, arquitetura de sistemas e resolução de problemas.  
+🚀 Em constante aprendizado em Java, C e versionamento de código com Git.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Minhas Estatísticas no GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=patricckhrq&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=patricckhrq&layout=compact&theme=dark)
+
+---
+📫 **Como me encontrar:**
+- 📧 Email: patrick.2025@alunos.utfpr.gov.edu
